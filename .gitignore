@@ -1,5 +1,4 @@
 venv/
+*.db
 __pycache__/
-*.pyc
-smat.db
-.pytest_cache/
+.env
